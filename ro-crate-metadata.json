@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-04-07T17:30:42.436296",
+            "datePublished": "2025-04-08T13:57:22.183617",
             "hasPart": [
                 {
                     "@id": "hi-c-map-for-assembly-manual-curation.ga"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/hi-c-contact-map-for-assembly-manual-curation",
-            "version": "1.0beta3"
+            "version": "1.0beta4"
         },
         {
             "@id": "#galaxy",
