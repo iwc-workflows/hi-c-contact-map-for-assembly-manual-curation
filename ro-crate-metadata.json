@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-04-08T13:57:22.183617",
+            "datePublished": "2025-05-14T02:51:29.431751",
             "hasPart": [
                 {
                     "@id": "hi-c-map-for-assembly-manual-curation.ga"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/hi-c-contact-map-for-assembly-manual-curation",
-            "version": "1.0beta4"
+            "version": "1.0beta5"
         },
         {
             "@id": "#galaxy",
@@ -146,7 +146,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.29"
+            "engineVersion": ">=0.75.30"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
